@@ -1,4 +1,3 @@
-// Initialize Swiper when the document is fully loaded
 document.addEventListener("DOMContentLoaded", function () {
   const swiper = new Swiper(".swiper", {
     loop: true,

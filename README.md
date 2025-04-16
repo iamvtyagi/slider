@@ -18,11 +18,6 @@ A modern, responsive testimonial slider built with HTML, CSS, and Swiper.js. Thi
   <p><em>Click the image above to view the mobile demo video</em></p>
 </div>
 
-### Desktop View
-
-![Desktop View](screenshots/desktop-view.jpg)
-
-On desktop, the slider displays three testimonials simultaneously, providing a comprehensive view of client feedback at a glance.
 
 ## Features
 

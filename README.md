@@ -2,7 +2,21 @@
 
 A modern, responsive testimonial slider built with HTML, CSS, and Swiper.js. This slider showcases client testimonials with a clean, professional design that works seamlessly across mobile, tablet, and desktop devices.
 
-## Screenshots
+## Screenshots & Demo
+
+### Video Demo
+
+<div align="center">
+  <a href="screenshots/vdooo.mp4">
+    <img src="screenshots/desktop-view.jpg" alt="Desktop View Demo" width="70%">
+  </a>
+  <p><em>Click the image above to view the desktop demo video</em></p>
+
+  <a href="screenshots/testimonial-slider-mobile-demo.mp4">
+    <img src="screenshots/mobile-view.jpg" alt="Mobile View Demo" width="30%">
+  </a>
+  <p><em>Click the image above to view the mobile demo video</em></p>
+</div>
 
 ### Desktop View
 
